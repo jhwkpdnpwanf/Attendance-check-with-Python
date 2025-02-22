@@ -11,7 +11,7 @@ selenium을 통해 자동화를 시켜보았다.
 <br><br>
 ### bash
 ```bash
-pip install selenium selenium-wire requests json5
+pip install selenium selenium-wire requests
 ```
 tcp 요청을 수정하기 위해서는 selenium이 아닌 selenium-wire를 사용해야한다.  
 <br>
